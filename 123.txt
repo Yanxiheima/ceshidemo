@@ -3,5 +3,10 @@ git commit m '修改了123.txt文档'
 con
 consi
 我是风，我是沙，我是雨
+<<<<<<< HEAD
 123456789
+=======
+carcarcrcarcarcarcarcarcarcarcvarcaa
+
+>>>>>>> 2ffd5638ed9a38e9987d0ce6a51bfadf90f996c2
 
